@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file_": "C:\\Users\\Simon\\Desktop\\FD2\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 533046787
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027C:\\Users\\Simon\\Desktop\\FD2\\sdk\\.cxx\\Debug\\423b1m1j\\arm64-v8a\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "C:\\Users\\Simon\\Desktop\\FD2\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2069827585
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Simon\\Desktop\\FD2\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1635752866
+  }
+]
